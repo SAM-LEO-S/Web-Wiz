@@ -1,0 +1,124 @@
+.parent{
+    
+    height: 200px;
+    width: 200px;
+    box-shadow: #292829;
+    border-radius: 20%;
+}
+
+body{
+    background-color: rgb(148, 49, 173);
+    align-items: center;
+    justify-content: center;
+    
+
+    
+}
+
+.new{
+    box-shadow: #292829;
+}
+.container{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 550px;
+    top: 50px;
+    background:#2a1bf7;
+    
+}
+.text{
+    text-align: center;
+    position: relative;
+    left: 100px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fasthand', cursive;
+font-family: 'Red Hat Display', sans-serif;
+font-weight: 500;
+}
+
+.child{
+    background-color: whitesmoke;
+    position: relative;
+    width: 350px;
+    height: 80px;
+    border-radius: 15%;
+    left: 50px;
+}
+.imgg{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    box-shadow: #1f628d;
+}
+.h3{
+    position: absolute;
+    left: 100px; 
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fasthand', cursive;
+font-family: 'Red Hat Display', sans-serif;
+    
+}
+.p{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fasthand', cursive;
+font-family: 'Red Hat Display', sans-serif;
+
+}
+.bb{
+    
+    left: 100px;
+    top: 200px;
+    
+}
+.a{
+    position: absolute;
+    left: 250px;
+    top: 25px;
+ 
+}
+
+.btn {
+    background: #2a1bf7;
+    background-image: -webkit-linear-gradient(top, #2a1bf7, #5c5991);
+    background-image: -moz-linear-gradient(top, #2a1bf7, #5c5991);
+    background-image: -ms-linear-gradient(top, #2a1bf7, #5c5991);
+    background-image: -o-linear-gradient(top, #2a1bf7, #5c5991);
+    background-image: linear-gradient(to bottom, #2a1bf7, #5c5991);
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    -webkit-box-shadow: 0px 3px 7px #292829;
+    -moz-box-shadow: 0px 3px 7px #292829;
+    box-shadow: 0px 3px 7px #292829;
+    font-family: Georgia;
+    color: #cfcfcf;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: dotted #1f628d 2px;
+    text-decoration: none;
+    position: relative;
+    left: 110px;
+    top: 10px;
+  }
+  
+  .btn:hover {
+    text-decoration: #292829;
+    
+
+  }
+  .bn2{
+    position: relative;
+    left: 160px;
+    top: 20px;
+    background: transparent;
+    border: none !important;
+  }
+    .bn2:hover{
+        text-decoration: #292829;
+    }
+    
+  
