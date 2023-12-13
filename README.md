@@ -1,3 +1,3 @@
 # Web-Wiz
-jUST Learning web development!
+jUST Learning!
 
